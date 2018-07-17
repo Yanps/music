@@ -7,6 +7,7 @@ Após isso instale o [Angular ClI] com `npm install -g @angular/cli`
 
 ## Development server
 
+Antes é necessário 'gerar' o token da API do spotify com `npm run prestart`. O console vai informar que a chave foi criada.
 Execute o comando `ng serve` a partir da pasta `teste-frontend` p/ rodar o servidor local. 
 Navegue até `http://localhost:4200/`. O app irá atualizar automáticamente segundo as alteração.
 
